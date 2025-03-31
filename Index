@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Isaac Valentine - Résumé</title>
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/styles.css" rel="stylesheet">
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <a class="navbar-brand" href="#">Your Name</a>
+        <div class="collapse navbar-collapse">
+            <ul class="navbar-nav">
+                <li class="nav-item"><a class="nav-link" href="#resume">Résumé</a></li>
+                <li class="nav-item"><a class="nav-link" href="scratch.html">Scratch Page</a></li>
+            </ul>
+        </div>
+    </nav>
+    <section id="resume" class="container my-5">
+        <h1>Résumé</h1>
+        <h2>Education</h2>
+        <ul>
+            <li>B.S. in Computer Science, University XYZ, 2020-2024</li>
+        </ul>
+        <h2>Work Experience</h2>
+        <ul>
+            <li>Software Intern, Tech Corp, Summer 2023
+                <ul>
+                    <li>Developed web tools using Python and JavaScript</li>
+                </ul>
+            </li>
+        </ul>
+        <h2>Skills</h2>
+        <ul>
+            <li>HTML, CSS, JavaScript</li>
+            <li>Python, Git</li>
+        </ul>
+        <h2>Awards</h2>
+        <ul>
+            <li>Dean’s List, 2022-2023</li>
+        </ul>
+    </section>
+    <script src="js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
